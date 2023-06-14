@@ -2,7 +2,8 @@
     <head><title><h1>hala hisham</h1></title></head>
     <body>
 
-        <a href="https://www.linkedin.com/in/hala-dieabs-98601327a/" blank = "my account">my profile in linkedin</a>
+        <a href="https://www.linkedin.com/in/hala-dieabs-98601327a/">my profile in linkedin</a>
+        <img src="me.jpeg" alt="hala">
         
     </body>
     </html>
